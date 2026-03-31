@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💜 Emotional Alchemy
 
 **Emotional Alchemy** is a comprehensive emotional wellness and self-reflection application built with Flutter and Firebase. The app is designed to help users track their emotional journey, maintain daily productivity, and improve sleep hygiene through intuitive journaling, supportive chat, and advanced analytics.
@@ -88,3 +89,7 @@ The heart of Emotional Alchemy is the **Analytics Screen**, which acts as a dyna
 
 ---
 *Created with 💜 for better emotional wellness.*
+=======
+# emotional-alchemy
+Emotional Alchemy Transform your thoughts into clarity. A Flutter and Firebase based emotional wellness app featuring journaling, mood analytics, productivity tracking, and sleep monitoring with personalized insights.
+>>>>>>> 31200a72fa0a6a08c53d4282efda4bb4e3e1ae1c
