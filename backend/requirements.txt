@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+textblob
+vaderSentiment
+firebase-admin
+python-multipart
